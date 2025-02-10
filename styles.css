@@ -1,0 +1,38 @@
+body{
+    background-color: #000000;
+    margin: auto;
+}
+
+#ExpenceTracker{
+    background-color: #212121;
+    max-width: fit-content;
+    margin: 30vh auto;
+    padding: 2rem;
+    box-shadow: 0 0 5px blanchedalmond;
+}
+
+*{
+    color: rgb(214, 249, 210);
+}
+
+#Expencename{
+    width: 40%;
+    color: #212121;
+    border-radius: 5px;
+}
+#Investment{
+    border-radius: 5px;
+    color: #212121;
+    width: 40%;
+}
+#Submit{
+    width: 15%;
+    color: #000000;
+    border-radius: 5px;
+    background-color: rgb(146, 127, 255);
+    line-height: 1.5rem;
+}
+
+.hidden{
+    display: none;
+}
